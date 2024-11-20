@@ -1,0 +1,11 @@
+내용 변경
+
+git config --global user.name "hwangyong84"
+git config --global user.email "cbel@naver.com"
+git config --list
+
+git branch -M main
+
+git remote add origin https://github.com/hwangyong84/test.git
+
+git push origin main
